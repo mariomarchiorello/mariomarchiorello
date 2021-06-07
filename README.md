@@ -14,11 +14,11 @@ There are a few things I would like to tell you about myself and the things you 
     -	SASS 
     -	Python
     -	Django / Django REST
-    -	Git and GitLab 
+    -	Git
     -	Docker
 
 -	My fields of interest are:
-	  - Frontend  development.
+	- Frontend  development.
     - Science (Geology, Geography and most recently Microscopy)
     -	Outdoor stuff (if it’s something that happens in the mountains, I will be happy to chat about it)
     -	Food and Wine and the craft and art behind it.
