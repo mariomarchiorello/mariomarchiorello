@@ -3,8 +3,6 @@ Dear extra-terrestrial visitor,
 
 I am excited to welcome you to my public GitHub repository.
 There are a few things I would like to tell you about myself and the things you will see before you start to browse:
--	My CV and a short story on how and why I became a software developer can be found on my webpage :  
-
 -	The technologies I am most familiar with so far are:
 
     -	HTML / CSS3 / JS
